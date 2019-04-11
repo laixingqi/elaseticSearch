@@ -131,9 +131,7 @@ public class ElasticsearchUtil {
 	}
 
 	/**
-	 * @Author: LX
 	 * @Description: 判断inde下指定type是否存在
-	 * @Date: 2018/11/6 14:46
 	 * @Modified by:
 	 */
 	public boolean isTypeExist(String index, String type) {
